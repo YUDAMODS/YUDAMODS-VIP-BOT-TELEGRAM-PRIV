@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const util = require('util');
 
-const bot = new Telegraf('YOUR_TELEGRAM_BOT_TOKEN');
+const bot = new Telegraf('6916243118:AAGQFFvrRnOEP57pu0-A4REiI6baja2OIzw');
 
 // URL for Telegram thumbnail
 const thumbPath = 'https://telegra.ph/file/ba12c1ba24d23404c1e00.jpg'; // Ganti Link Thumb Lu
